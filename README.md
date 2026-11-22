@@ -1,8 +1,8 @@
 # Emberveil
 
-[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759/entry)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759/zynthlabsio)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/zynthlabsio/best-stealth-game-20261121-1759-entry-muse/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/zynthlabsio/best-stealth-game-20261121-1759-entry-muse/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 **Emberveil** is an original top-down 2D stealth game: Mira the moth-thief slips
 through three lantern-lit wings, lifts all three glow-crystals in each wing, and
